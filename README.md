@@ -4,12 +4,7 @@ efficiently compute Voronoi diagrams.
 
 ## Core files
 * rhill-voronoi-core.js
-
-Where the Voronoi object is implemented. 
-
 * rhill-voronoi-core.min.js
-
-The minimized version
 
 ## Demo files
 
@@ -18,13 +13,6 @@ The minimized version
 * rhill-voronoi-demo3.php
 * rhill-voronoi-demo4.html
 * rhill-voronoi-demo5.html
-
-* mootools/*
-
-Used by rhill-voronoi-demo3.php
-
-
-
 
 ## Main object: Voronoi
 
